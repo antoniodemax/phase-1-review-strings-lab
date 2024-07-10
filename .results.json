@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-06-24T21:29:09.469Z",
-    "end": "2024-06-24T21:29:09.868Z",
-    "duration": 399
+    "start": "2024-07-10T19:00:39.973Z",
+    "end": "2024-07-10T19:00:43.919Z",
+    "duration": 3946
   },
   "tests": [
     {
@@ -62,7 +62,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "contains \"Welcome, \"",
       "fullTitle": "index.js shortGreeting contains \"Welcome, \"",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
